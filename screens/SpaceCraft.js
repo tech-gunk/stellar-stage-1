@@ -11,6 +11,7 @@ export default class SpaceCraftScreen extends Component {
                     alignItems: "center"
                 }}>
                 <Text>SpaceCraft Screen!</Text>
+
             </View>
         )
     }
